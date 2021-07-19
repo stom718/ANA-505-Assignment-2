@@ -1,0 +1,242 @@
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Part Worth      8
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+12 parameters to be estimated.
+
+224 total units.
+Average of 4 alternatives in each of 12 sets per unit.
+2688 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    746    27.75%
+   2    872    32.44%
+   3    507    18.86%
+   4    563    20.94%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          10000
+Draws used in estimation:  2000
+Units:                     224
+Parameters per unit:       12
+Task weight:               5
+Constraints in effect.
+Draws are to be saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+Iteration  Acceptance   RLH     Pct. Cert.   Avg. Var.   RMS     Time to End
+      100  0.339        0.412   0.319        0.37        0.40    2:47  
+      200  0.305        0.570   0.561        1.15        0.96    2:25  
+      300  0.307        0.665   0.689        2.39        1.52    2:18  
+      400  0.303        0.717   0.752        3.64        1.96    2:12  
+      500  0.305        0.746   0.785        5.31        2.40    2:08  
+      600  0.308        0.764   0.805        6.87        2.75    2:06  
+      700  0.311        0.778   0.818        8.40        3.05    2:03  
+      800  0.304        0.787   0.827        10.20       3.38    2:01  
+      900  0.308        0.794   0.833        11.69       3.64    2:00  
+     1000  0.305        0.798   0.837        13.47       3.92    1:60  
+     1100  0.306        0.802   0.841        15.82       4.25    1:57  
+     1200  0.302        0.806   0.844        17.52       4.49    1:59  
+     1300  0.305        0.809   0.847        18.58       4.62    1:57  
+     1400  0.310        0.811   0.849        20.29       4.84    1:55  
+     1500  0.306        0.815   0.852        22.46       5.10    1:53  
+     1600  0.310        0.816   0.854        23.57       5.21    1:52  
+     1700  0.306        0.817   0.854        24.63       5.33    1:50  
+     1800  0.306        0.818   0.855        25.47       5.41    1:50  
+     1900  0.312        0.819   0.856        26.30       5.52    1:51  
+     2000  0.306        0.821   0.857        27.36       5.62    1:50  
+     2100  0.302        0.821   0.858        28.05       5.66    1:48  
+     2200  0.303        0.822   0.858        30.54       5.90    1:47  
+     2300  0.306        0.822   0.859        31.87       6.02    1:46  
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Part Worth      8
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+12 parameters to be estimated.
+
+224 total units.
+Average of 4 alternatives in each of 12 sets per unit.
+2688 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    746    27.75%
+   2    872    32.44%
+   3    507    18.86%
+   4    563    20.94%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          100
+Draws used in estimation:  50
+Units:                     224
+Parameters per unit:       12
+Task weight:               5
+Constraints in effect.
+Draws are to be saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+Iteration  Acceptance   RLH     Pct. Cert.   Avg. Var.   RMS     Time to End
+      100  0.332        0.418   0.327        0.45        0.45    0:00  
+
+Total Time Elapsed: 0:01
+
+Writing estimated unit-level betas to Rbetas.csv in the working directory
+
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Part Worth      8
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+12 parameters to be estimated.
+
+224 total units.
+Average of 4 alternatives in each of 12 sets per unit.
+2688 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    746    27.75%
+   2    872    32.44%
+   3    507    18.86%
+   4    563    20.94%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          100
+Draws used in estimation:  50
+Units:                     224
+Parameters per unit:       12
+Task weight:               5
+Constraints in effect.
+Draws are to be saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+Iteration  Acceptance   RLH     Pct. Cert.   Avg. Var.   RMS     Time to End
+      100  0.339        0.412   0.319        0.37        0.40    0:00  
+
+Total Time Elapsed: 0:02
+
+Writing estimated unit-level betas to Rbetas.csv in the working directory
+
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Part Worth      8
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+12 parameters to be estimated.
+
+224 total units.
+Average of 4 alternatives in each of 12 sets per unit.
+2688 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    746    27.75%
+   2    872    32.44%
+   3    507    18.86%
+   4    563    20.94%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          100
+Draws used in estimation:  50
+Units:                     224
+Parameters per unit:       12
+Task weight:               5
+Constraints in effect.
+Draws are to be saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+Iteration  Acceptance   RLH     Pct. Cert.   Avg. Var.   RMS     Time to End
+      100  0.339        0.412   0.319        0.37        0.40    0:00  
+
+Total Time Elapsed: 0:02
+
+Writing estimated unit-level betas to Rbetas.csv in the working directory
+
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Part Worth      8
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+12 parameters to be estimated.
+
+224 total units.
+Average of 4 alternatives in each of 12 sets per unit.
+2688 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    746    27.75%
+   2    872    32.44%
+   3    507    18.86%
+   4    563    20.94%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          100
+Draws used in estimation:  20
+Units:                     224
+Parameters per unit:       12
+Task weight:               5
+Constraints in effect.
+Draws are to be saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+Iteration  Acceptance   RLH     Pct. Cert.   Avg. Var.   RMS     Time to End
+      100  0.339        0.412   0.319        0.37        0.40    0:00  
+
+Total Time Elapsed: 0:01
+
+Writing estimated unit-level betas to Rbetas.csv in the working directory
+
